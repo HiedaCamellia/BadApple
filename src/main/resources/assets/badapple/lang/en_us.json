@@ -1,0 +1,8 @@
+{
+  "badapple.configuration.enableBadAppleRenderer": "Enable Bad Apple Renderer",
+  "badapple.configuration.enableBadAppleRenderer.tooltip": "When enabled, the game screen will be rendered in Bad Apple style (black and white)",
+  "badapple.configuration.badAppleContrast": "Bad Apple Contrast",
+  "badapple.configuration.badAppleContrast.tooltip": "Enhance the contrast of the screen",
+  "badapple.configuration.reverseColor": "Reverse Color",
+  "badapple.configuration.reverseColor.tooltip": "Reverse the color"
+}

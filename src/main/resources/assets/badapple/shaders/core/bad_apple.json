@@ -1,0 +1,22 @@
+{
+    "vertex": "minecraft:blit_screen",
+    "fragment": "badapple:bad_apple",
+    "samplers": [
+        { "name": "DiffuseSampler" }
+    ],
+    "uniforms": [
+        {
+            "name": "contrast",
+            "type": "float",
+            "count": 1,
+            "values": [ 1.0 ]
+        },
+        {
+            "name": "reverse",
+            "type": "int",
+            "count": 1,
+            "values": [ 0 ]
+        }
+    ]
+
+}

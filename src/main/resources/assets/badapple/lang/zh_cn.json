@@ -1,0 +1,8 @@
+{
+  "badapple.configuration.enableBadAppleRenderer": "启用 Bad Apple 风格渲染器",
+  "badapple.configuration.enableBadAppleRenderer.tooltip": "当启用时，游戏画面将会以 Bad Apple 风格（黑白色）渲染",
+  "badapple.configuration.badAppleContrast": "对比度增强",
+  "badapple.configuration.badAppleContrast.tooltip": "增强画面对比度",
+  "badapple.configuration.reverseColor": "反色",
+  "badapple.configuration.reverseColor.tooltip": "反转颜色"
+}
